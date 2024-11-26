@@ -11,5 +11,4 @@ O Sort foi utilizado pra organizar os itens de forma decrescente, começando a e
 
 O Reduce foi utilzido para pegar todos os valores de livros disponíves e exibir na parte inferior do site na aba "LIVROS DISPONÍVEIS"
 
-GitHub Pages: 
-
+GitHub Pages: https://lucasdiasa.github.io/forEach-Map-Sort-Reduce-Filter.Js/
